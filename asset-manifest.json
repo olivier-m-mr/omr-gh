@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/omr-gh/static/css/main.5f361e03.chunk.css",
+    "main.js": "/omr-gh/static/js/main.f570ac27.chunk.js",
+    "main.js.map": "/omr-gh/static/js/main.f570ac27.chunk.js.map",
+    "runtime-main.js": "/omr-gh/static/js/runtime-main.01de5e48.js",
+    "runtime-main.js.map": "/omr-gh/static/js/runtime-main.01de5e48.js.map",
+    "static/js/2.3ee159c4.chunk.js": "/omr-gh/static/js/2.3ee159c4.chunk.js",
+    "static/js/2.3ee159c4.chunk.js.map": "/omr-gh/static/js/2.3ee159c4.chunk.js.map",
+    "index.html": "/omr-gh/index.html",
+    "precache-manifest.7acbd887d78bcd13acde0bd505daf700.js": "/omr-gh/precache-manifest.7acbd887d78bcd13acde0bd505daf700.js",
+    "service-worker.js": "/omr-gh/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/omr-gh/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ee159c4.chunk.js.LICENSE.txt": "/omr-gh/static/js/2.3ee159c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/omr-gh/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01de5e48.js",
+    "static/js/2.3ee159c4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f570ac27.chunk.js"
+  ]
+}
