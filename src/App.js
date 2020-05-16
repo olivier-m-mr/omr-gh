@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Tree from './Tree';
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <div style={{ height: 400 }}>
+        <Tree />
+      </div>
     </div>
   );
 }
